@@ -1,0 +1,27 @@
+{
+  "name": "prolibu-cli",
+  "version": "1.0.0",
+  "description": "Prolibu command line interface",
+  "main": "cli.js",
+  "bin": {
+    "prolibu": "./cli.js"
+  },
+  "scripts": {
+    "publish": "npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilmaribg/prolibu-cli.git"
+  },
+  "keywords": [
+    "prolibu",
+    "cli"
+  ],
+  "author": "Wilmar <wilmar.ibg@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilmaribg/prolibu-cli/issues"
+  },
+  "homepage": "https://github.com/wilmaribg/prolibu-cli#readme"
+}
